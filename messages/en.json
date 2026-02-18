@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "Home",
+    "library": "Library",
+    "dashboard": "Dashboard",
+    "admin": "Admin",
+    "login": "Login",
+    "logout": "Logout",
+    "profile": "Profile",
+    "language": "Language"
+  },
+  "home": {
+    "title": "Islamic Knowledge Platform",
+    "subtitle": "Explore comprehensive Islamic knowledge in multiple languages",
+    "featured": "Featured Articles",
+    "categories": "Categories",
+    "getStarted": "Get Started",
+    "explore": "Explore Library"
+  },
+  "library": {
+    "title": "Knowledge Library",
+    "search": "Search articles...",
+    "filter": "Filter by category",
+    "articles": "Articles",
+    "noResults": "No articles found",
+    "readMore": "Read More"
+  },
+  "auth": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "submit": "Submit",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "loginSuccess": "Login successful!",
+    "signupSuccess": "Account created successfully!"
+  },
+  "dashboard": {
+    "title": "My Dashboard",
+    "bookmarks": "My Bookmarks",
+    "recentReads": "Recent Reads",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout",
+    "empty": "No bookmarks yet"
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "articles": "Manage Articles",
+    "categories": "Manage Categories",
+    "users": "Manage Users",
+    "translations": "Manage Translations",
+    "addArticle": "Add New Article",
+    "editArticle": "Edit Article",
+    "deleteArticle": "Delete Article",
+    "publish": "Publish",
+    "unpublish": "Unpublish",
+    "save": "Save Changes"
+  },
+  "categories": {
+    "quran": "Quran & Tafseer",
+    "hadith": "Hadith",
+    "fiqh": "Islamic Jurisprudence",
+    "history": "Islamic History",
+    "ethics": "Islamic Ethics",
+    "duas": "Duas & Remembrance",
+    "calendar": "Islamic Calendar"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "cancel": "Cancel"
+  }
+}
